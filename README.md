@@ -1,2 +1,1 @@
-# Random-password-generator
-منشئ كلمات المرور العشوائي
+# Random-Password-Generator منشئ كلمات المرور العشوائي 
